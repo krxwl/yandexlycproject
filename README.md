@@ -36,7 +36,6 @@
 + ### urllib
 + ### shazamio
 + ### bs4
-+ ### shazamio
 + ### requests
 + ### peewee
 + ### speech_recognition
